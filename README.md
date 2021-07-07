@@ -1,4 +1,5 @@
 ### Hey there <img src="https://github.com/iva1010/iva1010/blob/main/jump.gif" width="25px">
+---
 
 ### 🏆 GitHub Profile Trophy:
 ---
