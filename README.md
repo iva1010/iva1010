@@ -1,6 +1,10 @@
 ### Hey there <img src="https://github.com/iva1010/iva1010/blob/main/jump.gif" width="25px">
 ---
 
+- 🔬 Learning system programming in C
+- ⚙️ I work with SDR equipment, in particular with HackRF
+- 📫 How to reach me: contact@iva-g.cc
+
 ### 🏆 GitHub Profile Trophy:
 ---
 <a href="https://github.com/ryo-ma/github-profile-trophy">
